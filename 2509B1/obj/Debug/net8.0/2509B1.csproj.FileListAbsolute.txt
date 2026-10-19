@@ -1,0 +1,14 @@
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\bin\Debug\net8.0\2509B1.exe
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\bin\Debug\net8.0\2509B1.deps.json
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\bin\Debug\net8.0\2509B1.runtimeconfig.json
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\bin\Debug\net8.0\2509B1.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\bin\Debug\net8.0\2509B1.pdb
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\2509B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\2509B1.AssemblyInfoInputs.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\2509B1.AssemblyInfo.cs
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\2509B1.csproj.CoreCompileInputs.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\2509B1.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\refint\2509B1.dll
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\2509B1.pdb
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\2509B1.genruntimeconfig.cache
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2509b1\C#\2509B1\obj\Debug\net8.0\ref\2509B1.dll
